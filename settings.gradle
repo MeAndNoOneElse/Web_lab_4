@@ -1,0 +1,3 @@
+rootProject.name = 'Web_lab_4'
+include 'backend'
+include 'frontend'
